@@ -20,6 +20,17 @@ $ git clone https://github.com/ksankumar/logger.js
 
 ![Screenshot](/screenshot.png)
 
+
+# Browser Support
+
+**Logger.js** works on most all kind of browsers latest versions.
+ * Google Chrome
+ * Firefox
+ * Safari
+ * IE
+ * Opera
+
+
 # Logger.js API
 
 ## init
@@ -192,6 +203,6 @@ And of course ksankumar itself is open source with a [public repository][ksankum
 
 License
 ----
-MIT
 
-**Free Software, Santhosh Kumar Krishnan!**
+Copyright (c) 2016 Santhosh Kumar Krishnan
+Licensed under the [MIT license](http://opensource.org/licenses/MIT).
