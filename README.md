@@ -16,7 +16,7 @@ $ git clone https://github.com/ksankumar/logger.js
 <script type="text/javascript" src="lib/logger.js"></script>
 ```
 
-### [Example](https://github.com/ksankumar/logger.js/index.html)
+### [Example](https://github.com/ksankumar/logger.js/blob/master/index.html)
 
 ![Screenshot](/screenshot.png)
 
