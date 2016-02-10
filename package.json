@@ -1,0 +1,28 @@
+{
+    "name": "logger.js",
+    "version": "v1.0.1",
+    "homepage": "https://github.com/ksankumar/logger.js",
+    "description": "Get all console logs into screen without opening console/developer mode.",
+    "main": "lib/logger.js",
+    "author": {
+        "name": "Santhosh Kumar Krishnan",
+        "email": "ksankumar@gmail.com",
+        "url": "www.linkedin.com/in/ksankumar"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ksankumar/logger.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ksankumar/logger.js/issues"
+    },
+    "keywords": [
+        "library",
+        "framework",
+        "common",
+        "log",
+        "logger",
+        "console"
+    ],
+    "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "logger.js",
+    "version": "v1.0.1",
+    "description": "Get all console logs into screen without opening console/developer mode.",
+    "main": "lib/logger.js",
+    "ignore": [
+        "**/.*"
+    ]
+}
