@@ -13,7 +13,7 @@ $ npm i -g gulp
 $ git clone https://github.com/ksankumar/logger.js
 ```
 ```html
-<script type="text/javascript" src="lib/logger.js"></script>
+<script type="text/javascript" src="lib/logger.min.js"></script>
 ```
 
 ### [Example](https://github.com/ksankumar/logger.js/blob/master/index.html)
