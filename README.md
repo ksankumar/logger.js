@@ -32,8 +32,16 @@ $ git clone https://github.com/ksankumar/logger.js
 
 
 # Logger.js API
-
+## ready
+If you want to render logger if before DOM ready or within <head>, use this API
+```js
+logger.ready(function(l) {
+    l.log("logger.log");
+    l.info("logger.info");
+});
+```
 ## init
+If you want to render loggerwithin <body>, use this API
 ```js
 logger.init({'bgColor':'tomato', 'direction':'top_right'});
 ```
